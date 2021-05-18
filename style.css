@@ -24,6 +24,16 @@ button{
     
 }
 
+#purple__btn{
+    background-color:purple
+}
+#green__btn{
+    background-color:green;
+}
+#yellow__btn{
+    background-color:yellow;
+}
+
 button:hover{
     cursor:pointer;
 }
